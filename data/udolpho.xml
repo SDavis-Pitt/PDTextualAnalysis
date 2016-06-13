@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<text>
+<?xml-model href="PDProject.rnc" type="application/relax-ng-compact-syntax"?>
+<novel>
+    <meta>
 <projectGutenberg>The Project Gutenberg EBook of The Mysteries of Udolpho, by Ann Radcliffe
 
 This eBook is for the use of anyone anywhere at no cost and with
@@ -18,42 +19,42 @@ Release Date: June, 2002
 Language: English
 
 
-*** START OF THIS PROJECT GUTENBERG EBOOK THE MYSTERIES OF UDOLPHO ***</projectGutenberg>
+*** START OF THIS PROJECT GUTENBERG EBOOK THE MYSTERIES OF UDOLPHO ***
 
 
 
 
-Produced by Karalee Coleman
+Produced by Karalee Coleman</projectGutenberg>
 
 
 
 
 
-THE MYSTERIES OF UDOLPHO
+<header>THE MYSTERIES OF UDOLPHO
 
 A Romance
 
 Interspersed With Some Pieces of Poetry
 
 
-By Ann Radcliffe
+By Ann Radcliffe</header></meta>
 
 
 
-      Fate sits on these dark battlements, and frowns,
+      <epigraph>Fate sits on these dark battlements, and frowns,
       And, as the portals open to receive me,
       Her voice, in sullen echoes through the courts,
-      Tells of a nameless deed.
+      Tells of a nameless deed.</epigraph>
 
 
 
 
-VOLUME 1
+<vHead>VOLUME 1</vHead>
 
 
 
 
-CHAPTER I
+<cHead>CHAPTER I</cHead>
 
 
       home is the resort
@@ -854,7 +855,7 @@ to bestow any on his daughter.
 
 
 
-CHAPTER II
+<cHead>CHAPTER II</cHead>
 
 
  I could a tale unfold, whose lightest word
@@ -1168,7 +1169,7 @@ withdrew from the chamber.
 
 
 
-CHAPTER III
+<cHead>CHAPTER III</cHead>
 
 
  O how canst thou renounce the boundless store
@@ -1531,7 +1532,7 @@ belonged.
 
 
 
-CHAPTER IV
+<cHead>CHAPTER IV</cHead>
 
 
    In truth he was a strange and wayward wight,
@@ -2103,7 +2104,7 @@ slumber.
 
 
 
-CHAPTER V
+<cHead>CHAPTER V</cHead>
 
 
      While in the rosy vale
@@ -2413,7 +2414,7 @@ they separated for the night.
 
 
 
-CHAPTER VI
+<cHead>CHAPTER VI</cHead>
 
 
  I care not, Fortune! what you me deny;
@@ -3181,7 +3182,7 @@ the window to repose.
 
 
 
-CHAPTER VII
+<cHead>CHAPTER VII</cHead>
 
 
      Let those deplore their doom,
@@ -3570,7 +3571,7 @@ was more erroneously officious.
 
 
 
-CHAPTER VIII
+<cHead>CHAPTER VIII</cHead>
 
 
  O'er him, whose doom thy virtues grieve,
@@ -4244,7 +4245,7 @@ room.
 
 
 
-CHAPTER IX
+<cHead>CHAPTER IX</cHead>
 
 
   Can Music's voice, can Beauty's eye,
@@ -4416,7 +4417,7 @@ with the neglect.
 
 
 
-CHAPTER X
+<cHead>CHAPTER X</cHead>
 
 
      Can such things be,
@@ -5005,7 +5006,7 @@ oblivion.
 
 
 
-CHAPTER XI
+<cHead>CHAPTER XI</cHead>
 
 
      I leave that flowery path for eye
@@ -5176,7 +5177,7 @@ inculcated.
 
 
 
-CHAPTER XII
+<cHead>CHAPTER XII</cHead>
 
 
  Some pow'r impart the spear and shield,
@@ -6078,7 +6079,7 @@ and benevolent sentiments animating each.
 
 
 
-CHAPTER XIII
+<cHead>CHAPTER XIII</cHead>
 
 
   As when a shepherd of the Hebrid-Isles,
@@ -6949,11 +6950,11 @@ wretchedness.
 
 
 
-VOLUME 2
+<vHead>VOLUME 2</vHead>
 
 
 
-CHAPTER I
+<cHead>CHAPTER I</cHead>
 
 
  Where'er I roam, whatever realms I see,
@@ -7346,7 +7347,7 @@ the following lines.
 
 
 
-CHAPTER II
+<cHead>CHAPTER II</cHead>
 
 
  TITANIA.  If you will patiently dance in our round,
@@ -7827,7 +7828,7 @@ composing the following lines:
 
 
 
-CHAPTER III
+<cHead>CHAPTER III</cHead>
 
 
  He is a great observer, and he looks
@@ -9220,7 +9221,7 @@ gardens, and retired to repose.
 
 
 
-CHAPTER IV
+<cHead>CHAPTER IV</cHead>
 
 
  And poor Misfortune feels the lash of Vice.
@@ -9575,7 +9576,7 @@ sufficient to bear her through the scene of the approaching morning.
 
 
 
-CHAPTER V
+<cHead>CHAPTER V</cHead>
 
 
  Dark power! with shudd'ring, meek submitted thought
@@ -10464,7 +10465,7 @@ clock struck one before she closed her eyes to sleep.
 
 
 
-CHAPTER VI
+<cHead>CHAPTER VI</cHead>
 
 
       I think it is the weakness of mine eyes,
@@ -11888,7 +11889,7 @@ some feeble embers remained.
 
 
 
-CHAPTER VII
+<cHead>CHAPTER VII</cHead>
 
 
  Of aery tongues, that syllable men's names
@@ -12772,7 +12773,7 @@ separating for the night, retired to their respective apartments.
 
 
 
-CHAPTER VIII
+<cHead>CHAPTER VIII</cHead>
 
 
  He wears the rose of youth upon his cheek.
@@ -12934,7 +12935,7 @@ and the unjust authority of Montoni; at which period we leave him.
 
 
 
-CHAPTER IX
+<cHead>CHAPTER IX</cHead>
 
 
  The image of a wicked, heinous fault
@@ -13586,7 +13587,7 @@ she retired to sleep.
 
 
 
-CHAPTER X
+<cHead>CHAPTER X</cHead>
 
 
  And shall no lay of death
@@ -14249,7 +14250,7 @@ respite from suffering.
 
 
 
-CHAPTER XI
+<cHead>CHAPTER XI</cHead>
 
 
  Who rears the bloody hand?
@@ -14540,7 +14541,7 @@ again.'
 
 
 
-CHAPTER XII
+<cHead>CHAPTER XII</cHead>
 
 
   Then, oh, you blessed ministers above,
@@ -14995,11 +14996,11 @@ reluctantly to repose.
 
 
 
-VOLUME 3
+<vHead>VOLUME 3</vHead>
 
 
 
-CHAPTER I
+<cHead>CHAPTER I</cHead>
 
 
  I will advise you where to plant yourselves;
@@ -15463,7 +15464,7 @@ alone by Emily, during the whole night.
 
 
 
-CHAPTER II
+<cHead>CHAPTER II</cHead>
 
 
      unfold
@@ -15701,7 +15702,7 @@ the figure, if it should appear again.
 
 
 
-CHAPTER III
+<cHead>CHAPTER III</cHead>
 
 
  Such are those thick and gloomy shadows damp,
@@ -16340,7 +16341,7 @@ enlightened, and the terrors of superstition again pervaded her mind.
 
 
 
-CHAPTER IV
+<cHead>CHAPTER IV</cHead>
 
 
      There is one within,
@@ -16537,7 +16538,7 @@ comfort.
 
 
 
-CHAPTER V
+<cHead>CHAPTER V</cHead>
 
 
  The midnight clock has toll'd; and hark, the bell
@@ -17122,7 +17123,7 @@ conclude her present state of torturing suspense.
 
 
 
-CHAPTER VI
+<cHead>CHAPTER VI</cHead>
 
 
      might we but hear
@@ -18204,7 +18205,7 @@ new situation to banish sleep.
 
 
 
-CHAPTER VII
+<cHead>CHAPTER VII</cHead>
 
 
      Was nought around but images of rest,
@@ -18618,7 +18619,7 @@ the detection of Montoni.
 
 
 
-CHAPTER VIII
+<cHead>CHAPTER VIII</cHead>
 
 
  My tongue hath but a heavier tale to say.
@@ -19430,7 +19431,7 @@ music, she now closed the casement, and retired to rest.
 
 
 
-CHAPTER IX
+<cHead>CHAPTER IX</cHead>
 
 
      Thus on the chill Lapponian's dreary land,
@@ -20404,7 +20405,7 @@ THE MARINER
 
 
 
-CHAPTER X
+<cHead>CHAPTER X</cHead>
 
 
      Oh! the joy
@@ -20878,7 +20879,7 @@ only know.
 
 
 
-CHAPTER XI
+<cHead>CHAPTER XI</cHead>
 
 
      What transport to retrace our early plays,
@@ -21426,7 +21427,7 @@ and unchanged in his affections, she, at length, sunk to repose.
 
 
 
-CHAPTER XII
+<cHead>CHAPTER XII</cHead>
 
 
      Oft woo'd the gleam of Cynthia, silver-bright,
@@ -21731,7 +21732,7 @@ letter.
 
 
 
-CHAPTER XIII
+<cHead>CHAPTER XIII</cHead>
 
 
      As when a wave, that from a cloud impends,
@@ -22441,20 +22442,20 @@ reverse of any, to which she had looked forward!
 
 
 
-VOLUME 4
+<vHead>VOLUME 4</vHead>
 
 
 
-CHAPTER I
+<cHead>CHAPTER I</cHead>
 
 
-  Is all the council that we two have shared,
+  <epigraph>Is all the council that we two have shared,
      the hours that we have spent,
  When we have chid the hasty-footed time
  For parting us--Oh! and is all forgot?
 
  And will you rend our ancient love asunder?
-     MIDSUMMER NIGHT'S DREAM
+     MIDSUMMER NIGHT'S DREAM</epigraph>
 
 In the evening, when Emily was at length informed, that Count De
 Villefort requested to see her, she guessed that Valancourt was below,
@@ -22745,7 +22746,7 @@ irresolute, and a frame, trembling with illness.
 
 
 
-CHAPTER II
+<cHead>CHAPTER II</cHead>
 
 
  Come, weep with me;--past hope, past cure, past help!
@@ -22848,7 +22849,7 @@ her own room.
 
 
 
-CHAPTER III
+<cHead>CHAPTER III</cHead>
 
 
   This is no mortal business, nor no sound
@@ -23235,7 +23236,7 @@ heard.
 
 
 
-CHAPTER IV
+<cHead>CHAPTER IV</cHead>
 
 
  Now it is the time of night,
@@ -23585,7 +23586,7 @@ room during the night.
 
 
 
-CHAPTER V
+<cHead>CHAPTER V</cHead>
 
 
   Hail, mildly-pleasing Solitude!
@@ -23888,7 +23889,7 @@ she exclaimed Ludovico, sighed, and threw up her eyes to heaven.
 
 
 
-CHAPTER VI
+<cHead>CHAPTER VI</cHead>
 
 
   Ye gods of quiet, and of sleep profound!
@@ -24461,7 +24462,7 @@ Thus closed the hour.
 
 
 
-CHAPTER VII
+<cHead>CHAPTER VII</cHead>
 
 
   Enjoy the honey-heavy dew of slumber;
@@ -24956,7 +24957,7 @@ the nuns to the chapel.
 
 
 
-CHAPTER VIII
+<cHead>CHAPTER VIII</cHead>
 
 
  Be thou a spirit of health, or goblin damn'd,
@@ -25100,7 +25101,7 @@ beguile the tediousness of the night.
 
 
 
-CHAPTER IX
+<cHead>CHAPTER IX</cHead>
 
 
  Give thy thoughts no tongue.
@@ -25456,7 +25457,7 @@ Count.
 
 
 
-CHAPTER X
+<cHead>CHAPTER X</cHead>
 
 
  Lull'd in the countless chambers of the brain,
@@ -25946,7 +25947,7 @@ having observed a shadow of Valancourt or of any other person.
 
 
 
-CHAPTER XI
+<cHead>CHAPTER XI</cHead>
 
 
   Ah happy hills! ah pleasing shade!
@@ -26170,7 +26171,7 @@ to her old servant expressed for herself.
 
 
 
-CHAPTER XII
+<cHead>CHAPTER XII</cHead>
 
 
   Light thickens, and the crow
@@ -27132,7 +27133,7 @@ hastily to pursue their route.
 
 
 
-CHAPTER XIII
+<cHead>CHAPTER XIII</cHead>
 
 
   Ah why did Fate his steps decoy
@@ -27595,7 +27596,7 @@ answer, and saw him no more.
 
 
 
-CHAPTER XIV
+<cHead>CHAPTER XIV</cHead>
 
 
   Call up him, that left half told
@@ -27985,7 +27986,7 @@ Italy, did not appear very improbable.
 
 
 
-CHAPTER XV
+<cHead>CHAPTER XV</cHead>
 
 
   Sweet is the breath of vernal shower,
@@ -28137,7 +28138,7 @@ the following address:
 
 
 
-CHAPTER XVI
+<cHead>CHAPTER XVI</cHead>
 
 
   Unnatural deeds
@@ -28716,7 +28717,7 @@ symptoms of despair, which Valancourt's late conduct had betrayed.
 
 
 
-CHAPTER XVII
+<cHead>CHAPTER XVII</cHead>
 
 
   But in these cases,
@@ -29122,7 +29123,7 @@ from her conscience.
 
 
 
-CHAPTER XVIII
+<cHead>CHAPTER XVIII</cHead>
 
 
   Then, fresh tears
@@ -29403,7 +29404,7 @@ since she had found Ludovico himself.
 
 
 
-CHAPTER XIX
+<cHead>CHAPTER XIX</cHead>
 
 
   Now my task is smoothly done,
@@ -29874,4 +29875,4 @@ This Web site includes information about Project Gutenberg-tm,
 including how to make donations to the Project Gutenberg Literary
 Archive Foundation, how to help produce our new eBooks, and how to
 subscribe to our email newsletter to hear about new eBooks.</projectGutenberg>
-</text>
+</novel>

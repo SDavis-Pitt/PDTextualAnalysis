@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<text>
+<?xml-model href="PDProject.rnc" type="application/relax-ng-compact-syntax"?>
+<novel>
+    <meta></meta>
 <projectGutenberg>The Project Gutenberg EBook of The Monk; a romance, by M. G. Lewis
 
 This eBook is for the use of anyone anywhere at no cost and with
@@ -34,25 +35,25 @@ Produced by Charles Keller.  HTML version by Al Haines.</projectGutenberg>
 
 
 
-THE MONK
+<header>THE MONK
 
 A ROMANCE
 
 
 by
 
-MATTHEW LEWIS
+MATTHEW LEWIS</header></meta>
 
 
 
 
-  Somnia, terrores magicos, miracula, sagas,
+  <epigraph>Somnia, terrores magicos, miracula, sagas,
   Nocturnos lemures, portentaque.
                              Horat.
 
   Dreams, magic terrors, spells of mighty power,
   Witches, and ghosts who rove at midnight hour.
-
+</epigraph>
 
 
 
@@ -14846,4 +14847,4 @@ This Web site includes information about Project Gutenberg-tm,
 including how to make donations to the Project Gutenberg Literary
 Archive Foundation, how to help produce our new eBooks, and how to
 subscribe to our email newsletter to hear about new eBooks.</projectGutenberg>
-</text>
+</novel>

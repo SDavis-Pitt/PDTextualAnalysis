@@ -1,0 +1,7 @@
+start = novel
+novel = element novel{meta}
+meta = element meta {projectGutenberg, header}
+projectGutenberg = element projectGutenberg {text}
+header = element header {title, author}
+title = element title {text}
+author = element title {text}
