@@ -30,18 +30,18 @@ Produced by Karalee Coleman</projectGutenberg>
 
 
 
-<header>THE MYSTERIES OF UDOLPHO
+<header><title>THE MYSTERIES OF UDOLPHO
 
-A Romance
+A Romance</title>
 
-Interspersed With Some Pieces of Poetry
-
-
-By Ann Radcliffe</header></meta>
+<subtitle>Interspersed With Some Pieces of Poetry</subtitle>
 
 
+<author>By Ann Radcliffe</author></header></meta>
 
-      <epigraph>Fate sits on these dark battlements, and frowns,
+
+
+    <data><epigraph>Fate sits on these dark battlements, and frowns,
       And, as the portals open to receive me,
       Her voice, in sullen echoes through the courts,
       Tells of a nameless deed.</epigraph>
@@ -29509,7 +29509,7 @@ And, if the weak hand, that has recorded this tale, has, by its scenes,
 beguiled the mourner of one hour of sorrow, or, by its moral, taught him
 to sustain it--the effort, however humble, has not been vain, nor is the
 writer unrewarded.
-
+</data>
 
 
 

@@ -1,7 +1,18 @@
 start = novel
-novel = element novel{meta}
+novel = element novel{meta, data, projectGutenberg}
+
 meta = element meta {projectGutenberg, header}
 projectGutenberg = element projectGutenberg {text}
-header = element header {title, author}
+header = element header {title, subtitle?, author}
 title = element title {text}
-author = element title {text}
+subtitle = element subtitle {text}
+author = element author {text}
+
+data = element data {vHead? ,cHead?, epigraph?, p+}
+vHead = element vHead {text}
+cHead = element cHead {text}
+epigraph = element epigraph {eAuthor?, text}
+eAuthor = element eAuthor {text}
+p = element p {q?, text}
+q = element q {speaker ,text}
+speaker = attribute speaker {text}
