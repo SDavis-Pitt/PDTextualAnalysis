@@ -8,11 +8,13 @@ title = element title {text}
 subtitle = element subtitle {text}
 author = element author {text}
 
-data = element data {vHead? ,cHead?, epigraph?, p+}
+data = element data {mixed{(epigraph | vHead | v)*}}
 vHead = element vHead {text}
+v = element v {mixed{(cHead | c)*}}
 cHead = element cHead {text}
-epigraph = element epigraph {eAuthor?, text}
+c = element c {mixed{(epigraph | p+)}}
+epigraph = element epigraph {text, eAuthor?}
 eAuthor = element eAuthor {text}
 p = element p {q?, text}
-q = element q {speaker ,text}
+q = element q {speaker, text}
 speaker = attribute speaker {text}

@@ -50,18 +50,18 @@ A Romance</title>
 
 
 <vHead>VOLUME 1</vHead>
-
+<v>
 
 
 
 <cHead>CHAPTER I</cHead>
 
 
-      home is the resort
+     <c><epigraph> home is the resort
  Of love, of joy, of peace and plenty, where,
  Supporting and supported, polish'd friends
  And dear relations mingle into bliss.*
-      *Thomson
+      <eAuthor>*Thomson</eAuthor></epigraph>
 
 
 On the pleasant banks of the Garonne, in the province of Gascony, stood,
@@ -851,16 +851,16 @@ she practised them with a triumph so complete. But when the last was
 over, she sunk at once under the pressure of her sorrow, and then
 perceived that it was hope, as well as fortitude, which had hitherto
 supported her. St. Aubert was for a time too devoid of comfort himself
-to bestow any on his daughter.
+to bestow any on his daughter.</c>
 
 
 
 <cHead>CHAPTER II</cHead>
 
 
- I could a tale unfold, whose lightest word
+ <c><epigraph>I could a tale unfold, whose lightest word
  Would harrow up thy soul.
-     SHAKESPEARE
+     <eAuthor>SHAKESPEARE</eAuthor></epigraph>
 
 
 Madame St. Aubert was interred in the neighbouring village church; her
@@ -1165,14 +1165,14 @@ some other person.
 
 At length St. Aubert returned the picture to its case; and Emily,
 recollecting that she was intruding upon his private sorrows, softly
-withdrew from the chamber.
+withdrew from the chamber.</c>
 
 
 
 <cHead>CHAPTER III</cHead>
 
 
- O how canst thou renounce the boundless store
+<c><epigraph> O how canst thou renounce the boundless store
  Of charms which nature to her vot'ry yields!
  The warbling woodland, the resounding shore,
  The pomp of groves, and garniture of fields;
@@ -1183,7 +1183,7 @@ withdrew from the chamber.
  O how canst thou renounce, and hope to be forgiven!
 ..... These charms shall work thy soul's eternal health,
  And love, and gentleness, and joy, impart.
-     THE MINSTREL
+     <eAuthor>THE MINSTREL</eAuthor></epigraph>
 
 St. Aubert, instead of taking the more direct road, that ran along the
 feet of the Pyrenees to Languedoc, chose one that, winding over the
@@ -1528,14 +1528,14 @@ Valancourt to his station at the door, which, at this mild season, he
 preferred to a close cabin and a bed of skins. St. Aubert was somewhat
 surprised to find in his room volumes of Homer, Horace, and Petrarch;
 but the name of Valancourt, written in them, told him to whom they
-belonged.
+belonged.</c>
 
 
 
 <cHead>CHAPTER IV</cHead>
 
 
-   In truth he was a strange and wayward wight,
+   <c><epigraph>In truth he was a strange and wayward wight,
   Fond of each gentle, and each dreadful scene,
   In darkness, and in storm he found delight;
   Nor less than when on ocean-wave serene
@@ -1544,7 +1544,7 @@ belonged.
   And if a sigh would sometimes intervene,
   And down his cheek a tear of pity roll,
  A sigh, a tear, so sweet, he wish'd not to controul.
-     THE MINSTREL
+     <eAuthor>THE MINSTREL</eAuthor></epigraph>
 
 St. Aubert awoke at an early hour, refreshed by sleep, and desirous to
 set forward. He invited the stranger to breakfast with him; and, talking
@@ -2100,16 +2100,16 @@ The midnight chant of the monks soon after dropped into silence; but
 Emily remained at the casement, watching the setting moon, and the
 valley sinking into deep shade, and willing to prolong her present state
 of mind. At length she retired to her mattress, and sunk into tranquil
-slumber.
+slumber.</c>
 
 
 
 <cHead>CHAPTER V</cHead>
 
 
-     While in the rosy vale
+     <c><epigraph>While in the rosy vale
  Love breath'd his infant sighs, from anguish free.
-     Thomson
+     <eAuthor>Thomson</eAuthor></epigraph>
 
 St. Aubert, sufficiently restored by a night's repose to pursue his
 journey, set out in the morning, with his family and Valancourt, for
@@ -2410,14 +2410,14 @@ his return home. During this evening he was often silent and thoughtful;
 St. Aubert's manner towards him was affectionate, though grave, and
 Emily was serious, though she made frequent efforts to appear cheerful.
 After one of the most melancholy evenings they had yet passed together,
-they separated for the night.
+they separated for the night.</c>
 
 
 
 <cHead>CHAPTER VI</cHead>
 
 
- I care not, Fortune! what you me deny;
+ <c><epigraph>I care not, Fortune! what you me deny;
  You cannot rob me of free nature's grace;
  You cannot shut the windows of the sky,
  Through which Aurora shews her brightening face;
@@ -2426,7 +2426,7 @@ they separated for the night.
  Let health my nerves and finer fibres brace,
  And I their toys to the great children leave:
  Of fancy, reason, virtue, nought can me bereave.
-     THOMSON
+     <eAuthor>THOMSON</eAuthor></epigraph>
 
 In the morning, Valancourt breakfasted with St. Aubert and Emily,
 neither of whom seemed much refreshed by sleep. The languor of illness
@@ -3178,14 +3178,14 @@ did not recollect ever to have heard him mention the name of Villeroi.
 No music, however, stole on the silence of the night, and Emily,
 perceiving the lateness of the hour, returned to a scene of fatigue,
 remembered that she was to rise early in the morning, and withdrew from
-the window to repose.
+the window to repose.</c>
 
 
 
 <cHead>CHAPTER VII</cHead>
 
 
-     Let those deplore their doom,
+     <c><epigraph>Let those deplore their doom,
  Whose hope still grovels in this dark sojourn.
  But lofty souls can look beyond the tomb,
  Can smile at fate, and wonder how they mourn.
@@ -3194,7 +3194,7 @@ the window to repose.
  Soon shall the orient with new lustre burn,
  And Spring shall soon her vital influence shed,
  Again attune the grove, again adorn the mead!
-     BEATTIE
+     <eAuthor>BEATTIE</eAuthor></epigraph>
 
 Emily, called, as she had requested, at an early hour, awoke, little
 refreshed by sleep, for uneasy dreams had pursued her, and marred the
@@ -3567,17 +3567,17 @@ gradually sinking into death, he expired without a struggle, or a sigh.
 
 Emily was led from the chamber by La Voisin and his daughter, who did
 what they could to comfort her. The old man sat and wept with her. Agnes
-was more erroneously officious.
+was more erroneously officious.</c>
 
 
 
 <cHead>CHAPTER VIII</cHead>
 
 
- O'er him, whose doom thy virtues grieve,
+ <c><epigraph>O'er him, whose doom thy virtues grieve,
  Aerial forms shall sit at eve,
  and bend the pensive head.
-     COLLINS
+     <eAuthor>COLLINS</eAuthor></epigraph>
 
 The monk, who had before appeared, returned in the evening to offer
 consolation to Emily, and brought a kind message from the lady abbess,
@@ -4241,14 +4241,14 @@ sad news, then he.'
 warmed for a moment by a ray of sympathy.
 
 At length, her spirits were entirely overcome, and she retired to her
-room.
+room.</c>
 
 
 
 <cHead>CHAPTER IX</cHead>
 
 
-  Can Music's voice, can Beauty's eye,
+  <c><epigraph>Can Music's voice, can Beauty's eye,
   Can Painting's glowing hand supply
   A charm so suited to my mind,
   As blows this hollow gust of wind?
@@ -4256,7 +4256,7 @@ room.
   Soft tinkling down the moss-grown hill;
  While, through the west, where sinks the crimson day,
  Meek Twilight slowly sails, and waves her banners gray?
-     MASON
+     <eAuthor>MASON</eAuthor></epigraph>
 
 Emily, some time after her return to La Vallee, received letters from
 her aunt, Madame Cheron, in which, after some common-place condolement
@@ -4413,7 +4413,7 @@ particularly the earnest and solemn manner, in which he had required her
 to destroy the manuscript papers, and, awakening from the lethargy,
 in which sorrow had held her, she was shocked to think she had not yet
 obeyed him, and determined, that another day should not reproach her
-with the neglect.
+with the neglect.</c>
 
 
 
@@ -6949,9 +6949,9 @@ wretchedness.
 
 
 
-
+</v>
 <vHead>VOLUME 2</vHead>
-
+<v>
 
 
 <cHead>CHAPTER I</cHead>
@@ -14991,7 +14991,7 @@ tenderness. Thus passed the hour in watchfulness and solemn thought; but
 no sounds returned; and, after remaining at the casement, till the
 light tint of dawn began to edge the mountain-tops and steal upon the
 night-shade, she concluded, that they would not return, and retired
-reluctantly to repose.
+reluctantly to repose.</v>
 
 
 
@@ -14999,7 +14999,7 @@ reluctantly to repose.
 <vHead>VOLUME 3</vHead>
 
 
-
+<v>
 <cHead>CHAPTER I</cHead>
 
 
@@ -22437,7 +22437,7 @@ are so ill at ease--that the sooner the affair is decided, the better.'
 Emily replied, therefore, to Valancourt, that she would see him, and
 then exerted herself in endeavours to attain fortitude and composure,
 to bear her through the approaching scene--a scene so afflictingly the
-reverse of any, to which she had looked forward!
+reverse of any, to which she had looked forward!</v>
 
 
 
@@ -22445,7 +22445,7 @@ reverse of any, to which she had looked forward!
 <vHead>VOLUME 4</vHead>
 
 
-
+<v>
 <cHead>CHAPTER I</cHead>
 
 
@@ -29508,7 +29508,7 @@ misfortune!
 And, if the weak hand, that has recorded this tale, has, by its scenes,
 beguiled the mourner of one hour of sorrow, or, by its moral, taught him
 to sustain it--the effort, however humble, has not been vain, nor is the
-writer unrewarded.
+writer unrewarded.</v>
 </data>
 
 
